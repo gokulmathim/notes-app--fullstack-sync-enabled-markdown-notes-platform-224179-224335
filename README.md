@@ -1,1 +1,3 @@
-# notes-app--fullstack-sync-enabled-markdown-notes-platform-224179-224335
+# Project Repository
+
+This is the initial README file for the project.
